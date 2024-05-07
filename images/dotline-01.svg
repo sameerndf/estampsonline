@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1930.5 537.9" enable-background="new 0 0 1930.5 537.9" xml:space="preserve">
+<path fill="none" stroke="#F15A24" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="16,15" d="M24.1,510.6
+	c100.6-148.2,201.1-296.4,354.2-302.4c153-6,376,240.9,564,266.5c188,25.6,410.7-47.4,564-112.8c153.3-65.3,350.1-38,356-279.3"/>
+<g>
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="14,529 1934,529 1934,10 14,10 14,529 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M15,514.4c0-7.4,4.5-13.3,10-13.3
+			s10,6,10,13.3c0,7.4-4.5,13.3-10,13.3S15,521.7,15,514.4L15,514.4z"/>
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-miterlimit="8" d="M15,514.4c0-7.4,4.5-13.3,10-13.3
+			s10,6,10,13.3c0,7.4-4.5,13.3-10,13.3S15,521.7,15,514.4L15,514.4z"/>
+		<g clip-path="url(#SVGID_2_)">
+			<defs>
+				<polygon id="SVGID_3_" points="14,529 1934,529 1934,10 14,10 14,529 				"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M1836.5,68.5c-2.9,0.7-4.6,0.7-5,0c-1.9-3.4,25.1-23.1,81-59
+		c-6.7,58.9-12.1,88.2-16,88c-0.7,0-1.4-1-2-3c-10.2-11.9-17.3-13.7-22-13c-4.5,0.7-8.2,3.8-11,2c-2.8-1.9-0.9-6.3-3-10
+		C1856.7,70.3,1851.5,67.2,1836.5,68.5z"/>
+</g>
+<g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1912.5" y1="9.5" x2="1863" y2="83.5"/>
+</g>
+</svg>
